@@ -4,7 +4,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 {
     internal class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Digite a quantidade de linhas e colunas da matriz separados por um espaço: ");
+            Console.Write("Digite a quantidade de linhas e colunas da matriz separados por um espaço: ");
             string[] lxc = Console.ReadLine().Split(' ');
             int linha = int.Parse(lxc[0]);
             int coluna = int.Parse(lxc[1]);

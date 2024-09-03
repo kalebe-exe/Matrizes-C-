@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaleb\\source\\repos\\Ex_fixacao_matriz\\Ex_fixacao_matriz\\Ex_fixacao_matriz.csproj",
+      "projectUniqueName": "C:\\Users\\kaleb\\OneDrive\\Desktop\\curso c#\\Secao 06 Comportamento de memoria, arrays, listas\\Exercicios\\Matrizes-C-\\Ex_fixacao_matriz\\Ex_fixacao_matriz.csproj",
       "projectName": "Ex_fixacao_matriz",
-      "projectPath": "C:\\Users\\kaleb\\source\\repos\\Ex_fixacao_matriz\\Ex_fixacao_matriz\\Ex_fixacao_matriz.csproj",
+      "projectPath": "C:\\Users\\kaleb\\OneDrive\\Desktop\\curso c#\\Secao 06 Comportamento de memoria, arrays, listas\\Exercicios\\Matrizes-C-\\Ex_fixacao_matriz\\Ex_fixacao_matriz.csproj",
       "packagesPath": "C:\\Users\\kaleb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaleb\\source\\repos\\Ex_fixacao_matriz\\Ex_fixacao_matriz\\obj\\",
+      "outputPath": "C:\\Users\\kaleb\\OneDrive\\Desktop\\curso c#\\Secao 06 Comportamento de memoria, arrays, listas\\Exercicios\\Matrizes-C-\\Ex_fixacao_matriz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
